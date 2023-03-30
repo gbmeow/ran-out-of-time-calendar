@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/georgebatalinski/ran-out-of-time-calendar#readme",
   "dependencies": {
-    "ics-to-json": "^1.0.0"
+    "ics-to-json": "^1.0.0",
+    "jest": "^29.5.0",
+    "moment": "^2.29.4"
   }
 }
