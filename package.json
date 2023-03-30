@@ -1,0 +1,22 @@
+{
+  "name": "ran-out-of-time-calendar",
+  "version": "1.0.0",
+  "description": "Visualize time spent from calendar events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgebatalinski/ran-out-of-time-calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgebatalinski/ran-out-of-time-calendar/issues"
+  },
+  "homepage": "https://github.com/georgebatalinski/ran-out-of-time-calendar#readme",
+  "dependencies": {
+    "ics-to-json": "^1.0.0"
+  }
+}
