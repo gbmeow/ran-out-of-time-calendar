@@ -32,4 +32,12 @@ END:VALARM
 END:VEVENT
 END:VCALENDAR`;
 
-console.log( icsToJson.default(icsData) );
+
+
+
+let getResults = () => {
+    let result = icsToJson.default(icsData);
+    return result;
+};
+
+module.exports = getResults;
